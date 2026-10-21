@@ -2,9 +2,9 @@
 
 Portfolio Website
 
-This is my personal portfolio website created as part of Day 2 learning challenge.
+This is college website created as part of second learning challenge.
 
-🚀 Live Preview https://anjaligangwar-stack.github.io/project-2/
+🚀 Live Preview https://anjaligangwar-stack.github.io/project2/
 
 ✨ Features
 - Responsive Design for all devices
